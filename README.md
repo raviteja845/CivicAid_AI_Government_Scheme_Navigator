@@ -155,3 +155,75 @@ Built as a Salesforce Unlocked workshop project.
 
 ### 5. Agent Activation Confirmation
 ![Agent Activation](screenshots/05-agent-activation-confirmation.png)
+
+---
+
+## System Architecture
+
+```text
+              CITIZEN
+                 |
+                 v
+          CIVICAID AI AGENT
+                 |
+                 v
+             AGENT ROUTER
+                 |
+       +---------+----------+
+       |         |          |
+       v         v          v
+   EVALUATE   EXPLAIN    ESCALATION
+  ELIGIBILITY  RESULTS
+       |
+       v
+  SAMPLE CRITERIA
+       |
+       v
+  ELIGIBILITY GUIDANCE
+       |
+       v
+  DOCUMENT CHECKLIST
+       |
+       v
+  OFFICIAL PORTAL VERIFICATION
+```
+
+## Key Features
+
+- Conversational citizen assistance.
+- Student profile collection.
+- Illustrative eligibility evaluation.
+- Scholarship and welfare guidance.
+- Document checklist recommendations.
+- Specialized Agentforce subagents.
+- Preview-based conversation testing.
+- Support escalation pathway.
+
+## Current Limitations
+
+- No live government scheme database integration.
+- Eligibility examples use illustrative sample criteria.
+- No connected Salesforce Case creation action.
+- Final eligibility must be verified through official government portals.
+
+## Future Enhancements
+
+- Integrate verified government scheme databases.
+- Implement real-time eligibility verification.
+- Connect Salesforce Case creation automation.
+- Add multilingual conversational support.
+- Develop a dedicated citizen-facing web application.
+
+## Disclaimer
+
+CivicAid AI is an educational Salesforce Agentforce project. It does not guarantee scholarship eligibility, financial assistance, or government approval. Users should verify current requirements through official government sources.
+
+## Author
+
+**Ravi Teja Maram**
+
+GitHub: [raviteja845](https://github.com/raviteja845)
+
+Project: CivicAid AI – Government Scheme Eligibility Navigator
+
+Platform: Salesforce Agentforce
