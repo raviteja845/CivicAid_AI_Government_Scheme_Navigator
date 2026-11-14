@@ -128,10 +128,10 @@ Built as a Salesforce Unlocked workshop project.
 ![Preview Conversation](screenshots/02-successful-preview-conversation.png)
 
 ### 3. Agent Preview Conversation
-![Agent Preview](screenshots/03-agent-preview-conversation.png)
+![Agent Preview](screenshots/03-successful-preview-conversation.png)
 
 ### 4. Agent Preview Details
-![Agent Details](screenshots/04-agent-preview-conversation-details.png)
+![Agent Details](screenshots/04-successful-preview-conversation.png)
 
 ### 5. Agent Activation Confirmation
 ![Agent Activation](screenshots/05-agent-activation-confirmation.png)
