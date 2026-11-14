@@ -8,6 +8,26 @@ CivicAid AI is an AI assistant built in **Salesforce Agentforce Builder**. It gu
 
 The workshop implementation demonstrates an Agentforce agent, routing, subagents, system instructions, and a preview-tested conversation. The current eligibility examples are **embedded illustrative sample criteria**; they are not a live connection to government scheme databases.
 
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Salesforce Agentforce Builder | AI agent development |
+| Salesforce Platform | Agent configuration |
+| Agentforce Subagents | Specialized task handling |
+| Agent Router | Conversation routing |
+| Agent-Level Instructions | Agent behavior |
+| Salesforce Preview | Testing and validation |
+
+## Core Components
+
+- **CivicAid AI:** Main conversational assistant.
+- **Agent Router:** Directs incoming requests.
+- **Evaluate Eligibility:** Evaluates profiles against illustrative criteria.
+- **Explain Results:** Explains potential assistance and documents.
+- **Create Support Case:** Demonstrates support escalation.
+- **Escalation:** Handles escalation scenarios.
+
 ## Problem
 
 Information about public scholarships and welfare assistance can be spread across multiple portals and scheme pages. Citizens may find it difficult to understand which details matter, what documents are commonly requested, and where to verify current requirements.
