@@ -116,3 +116,22 @@ Repository: **CivicAid-AI-Government-Scheme-Navigator**
 ---
 
 Built as a Salesforce Unlocked workshop project.
+
+---
+
+## Project Screenshots
+
+### 1. Agentforce Builder Overview
+![Agentforce Builder](screenshots/01-agent-builder-overview.png)
+
+### 2. Successful Preview Conversation
+![Preview Conversation](screenshots/02-successful-preview-conversation.png)
+
+### 3. Agent Preview Conversation
+![Agent Preview](screenshots/03-agent-preview-conversation.png)
+
+### 4. Agent Preview Details
+![Agent Details](screenshots/04-agent-preview-conversation-details.png)
+
+### 5. Agent Activation Confirmation
+![Agent Activation](screenshots/05-agent-activation-confirmation.png)
